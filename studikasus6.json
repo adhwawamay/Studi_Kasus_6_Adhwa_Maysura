@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Adhwa Mayra",
+        "nim": "2609116103",
+        "mata_kuliah": "Algoritma Pemrograman",
+        "nilai": 95,
+        "predikat": "A"
+    },
+    {
+        "nama": "Nila Amelia",
+        "nim": "2609116104",
+        "mata_kuliah": "Basis Data",
+        "nilai": 80,
+        "predikat": "B"
+    },
+    {
+        "nama": "Azzam Juhdi",
+        "nim": "2609116105",
+        "mata_kuliah": "Struktur Data",
+        "nilai": 67.5,
+        "predikat": "C"
+    },
+    {
+        "nama": "Fina Sabila",
+        "nim": "2609116106",
+        "mata_kuliah": "Dasar - Dasar Pemograman",
+        "nilai": 90,
+        "predikat": "A"
+    }
+]
